@@ -1,0 +1,1 @@
+# hyprdot-config
